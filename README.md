@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg">
-  <img alt="Charbel El Feghali, ML researcher. A weight matrix unscrambles when a secret key is applied." src="./banner-light.svg" width="100%">
-</picture>
+### Hi, I'm Charbel
 
 ML researcher and engineer based in Montréal. I hold an MSc in Computer Science from McGill and have worked on LLM research at Mila, ServiceNow Research and Microsoft Research. Before that I spent three years as a software engineer at BlueCat building production security analytics.
 
