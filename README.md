@@ -8,7 +8,7 @@ I work on access control for open-weight models, LLM agents and AI safety.
 
 ### CV
 
-<img alt="CV timeline, newest first. 2026 PhD Student at McGill and Mila. 2025 to 2026 Visiting Researcher at ServiceNow Research and Mila. 2025 Applied Scientist at Coveo. 2024 to 2025 Graduate Student Researcher at Microsoft Research and McGill. 2024 to 2026 MSc Computer Science at McGill. 2021 to 2025 Software Engineer II at BlueCat. 2020 Machine Learning Engineer at Impact Factor. 2017 to 2021 HBSc Computer Science at University of Toronto." src="https://raw.githubusercontent.com/charbel08/charbel08/3a0d0fbd3d5c987d0c2f88fc58e35ea5fab4666a/cv.svg" width="100%">
+<img alt="CV timeline, newest first. 2026 to present AI Engineer at Kuiper. 2026 PhD Student at McGill and Mila. 2025 to 2026 Visiting Researcher at ServiceNow Research and Mila. 2025 Applied Scientist at Coveo. 2024 to 2025 Graduate Student Researcher at Microsoft Research and McGill. 2024 to 2026 MSc Computer Science at McGill. 2021 to 2025 Software Engineer II at BlueCat. 2020 Machine Learning Engineer at Impact Factor. 2017 to 2021 HBSc Computer Science at University of Toronto." src="https://raw.githubusercontent.com/charbel08/charbel08/e4b3dcbe0fa68ee75377c4e9efa4d1c8815e85a7/cv.svg" width="100%">
 
 ---
 
