@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="Charbel El Feghali. ML researcher and engineer working on controllable open-weight LLMs, coding agents and AI safety."><style>
+  .tag{font:600 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;fill:#7ee0d2;letter-spacing:1.6px}
+  .name{font:700 44px ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif;fill:#e6edf3;letter-spacing:-0.8px}
+  .sub{font:400 17px ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif;fill:#e6edf3;opacity:.86}
+  .sub2{font:400 14px ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif;fill:#8b949e}
+  .mono{font:13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace}
+  .cmd{fill:#e6edf3} .out{fill:#8b949e} .ps{fill:#f2cc60}
+  .caret{fill:#7ee0d2;animation:blink 1s steps(1) infinite}
+  @keyframes blink{50%{opacity:0}}
+  .ul{transform-box:fill-box;transform-origin:left center;animation:grow 1.2s cubic-bezier(.2,.7,.2,1) .2s both}
+  @keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+  @media (prefers-reduced-motion: reduce){ .r,.o,.caret,.ul{animation:none!important;transform:none!important;opacity:1!important} }
+  .r0{transform-box:view-box;transform-origin:578px 0;animation:r0 14s steps(1) infinite}
+  @keyframes r0{0%,4.29%{transform:scaleX(0)} 4.79%{transform:scaleX(0.363)} 5.29%{transform:scaleX(0.484)} 5.79%{transform:scaleX(0.606)} 6.29%{transform:scaleX(0.727)} 6.79%{transform:scaleX(0.848)} 7.29%{transform:scaleX(0.969)} 91.43%{transform:scaleX(1)} 100%{transform:scaleX(0)}}
+  .o1{animation:o1 14s steps(1) infinite} @keyframes o1{0%,9.79%{opacity:0} 9.86%{opacity:1} 91.43%{opacity:1} 100%{opacity:0}}
+  .r2{transform-box:view-box;transform-origin:578px 0;animation:r2 14s steps(1) infinite}
+  @keyframes r2{0%,14.79%{transform:scaleX(0)} 15.29%{transform:scaleX(0.164)} 15.79%{transform:scaleX(0.219)} 16.29%{transform:scaleX(0.274)} 16.79%{transform:scaleX(0.329)} 17.29%{transform:scaleX(0.383)} 17.79%{transform:scaleX(0.438)} 18.29%{transform:scaleX(0.493)} 18.79%{transform:scaleX(0.548)} 19.29%{transform:scaleX(0.603)} 19.79%{transform:scaleX(0.657)} 20.29%{transform:scaleX(0.712)} 20.79%{transform:scaleX(0.767)} 21.29%{transform:scaleX(0.822)} 21.79%{transform:scaleX(0.876)} 22.29%{transform:scaleX(0.931)} 22.79%{transform:scaleX(0.986)} 91.43%{transform:scaleX(1)} 100%{transform:scaleX(0)}}
+  .o3{animation:o3 14s steps(1) infinite} @keyframes o3{0%,25.29%{opacity:0} 25.36%{opacity:1} 91.43%{opacity:1} 100%{opacity:0}}
+  .r4{transform-box:view-box;transform-origin:578px 0;animation:r4 14s steps(1) infinite}
+  @keyframes r4{0%,30.29%{transform:scaleX(0)} 30.79%{transform:scaleX(0.185)} 31.29%{transform:scaleX(0.246)} 31.79%{transform:scaleX(0.308)} 32.29%{transform:scaleX(0.369)} 32.79%{transform:scaleX(0.431)} 33.29%{transform:scaleX(0.492)} 33.79%{transform:scaleX(0.554)} 34.29%{transform:scaleX(0.615)} 34.79%{transform:scaleX(0.677)} 35.29%{transform:scaleX(0.738)} 35.79%{transform:scaleX(0.800)} 36.29%{transform:scaleX(0.861)} 36.79%{transform:scaleX(0.923)} 37.29%{transform:scaleX(0.984)} 91.43%{transform:scaleX(1)} 100%{transform:scaleX(0)}}
+  .o5{animation:o5 14s steps(1) infinite} @keyframes o5{0%,39.79%{opacity:0} 39.86%{opacity:1} 91.43%{opacity:1} 100%{opacity:0}}
+  .fin{animation:fin 14s steps(1) infinite} @keyframes fin{0%,44.79%{opacity:0} 44.86%{opacity:1} 91.43%{opacity:1} 100%{opacity:0}}</style><rect x="0.5" y="0.5" width="999" height="259" rx="16" fill="#0d1117" stroke="#30363d"/><text class="tag" x="44" y="80">ML RESEARCHER &amp; ENGINEER · MONTRÉAL</text>
+<text class="name" x="42" y="132">Charbel El Feghali</text>
+<rect class="ul" x="44" y="146" width="64" height="3" rx="1.5" fill="#2bb3a3"/>
+<text class="sub" x="44" y="180">Research on controllable open-weight LLMs,</text>
+<text class="sub" x="44" y="203">coding agents and AI safety.</text>
+<text class="sub2" x="44" y="232">Mila · ServiceNow Research · Microsoft Research · McGill MSc</text><rect x="560" y="34" width="400" height="196" rx="10" fill="#161b22" stroke="#30363d"/>
+<circle cx="578" cy="50" r="5" fill="#ff5f57"/><circle cx="594" cy="50" r="5" fill="#febc2e"/><circle cx="610" cy="50" r="5" fill="#28c840"/>
+<text class="mono" x="942" y="54" text-anchor="end" fill="#8b949e" style="font-size:11px">~/charbel</text>
+<line x1="560" y1="64" x2="960" y2="64" stroke="#30363d"/><clipPath id="c0"><rect class="r r0" x="578" y="69" width="64.4" height="20"/></clipPath><g clip-path="url(#c0)"><text class="mono" x="578" y="84"><tspan class="ps">❯ </tspan><tspan class="cmd">whoami</tspan></text></g><text class="mono out o o1" x="578" y="106">charbel el feghali</text><clipPath id="c2"><rect class="r r2" x="578" y="113" width="142.4" height="20"/></clipPath><g clip-path="url(#c2)"><text class="mono" x="578" y="128"><tspan class="ps">❯ </tspan><tspan class="cmd">research --focus</tspan></text></g><text class="mono out o o3" x="578" y="150">open-weight access control · agents · safety</text><clipPath id="c4"><rect class="r r4" x="578" y="157" width="126.8" height="20"/></clipPath><g clip-path="url(#c4)"><text class="mono" x="578" y="172"><tspan class="ps">❯ </tspan><tspan class="cmd">ls experience/</tspan></text></g><text class="mono out o o5" x="578" y="194">mila  servicenow  msr  coveo  bluecat</text><g class="o fin"><text class="mono ps" x="578" y="216">❯</text><rect class="caret" x="593.6" y="204" width="8" height="15" rx="1"/></g></svg>
