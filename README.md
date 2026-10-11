@@ -12,6 +12,6 @@ I work on access control for open-weight models, LLM agents and AI safety.
 
 ---
 
-### Elsewhere
+### Contact
 
 <a href="https://www.linkedin.com/in/charbelelfeghali/"><img src="https://raw.githubusercontent.com/charbel08/charbel08/main/badges/linkedin.svg?v=4" alt="LinkedIn" height="26"></a> <a href="mailto:charbel.elfeghali@mail.mcgill.ca"><img src="https://raw.githubusercontent.com/charbel08/charbel08/main/badges/email.svg?v=4" alt="Email" height="26"></a>
