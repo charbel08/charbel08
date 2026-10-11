@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charbel08/charbel08/main/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charbel08/charbel08/main/banner-light.svg">
-  <img alt="Hi, I'm Charbel. A weight matrix unscrambles when a secret key is applied." src="https://raw.githubusercontent.com/charbel08/charbel08/main/banner-light.svg" width="100%">
-</picture>
+<img alt="Hi, I'm Charbel. A weight matrix unscrambles when a secret key is applied." src="https://raw.githubusercontent.com/charbel08/charbel08/main/banner-dark.svg" width="100%">
 
 ML researcher and engineer based in Montréal. I hold an MSc in Computer Science from McGill and have worked on LLM research at Mila, ServiceNow Research and Microsoft Research. Before that I spent three years as a software engineer at BlueCat building production security analytics.
 
